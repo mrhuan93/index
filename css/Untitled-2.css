@@ -6,6 +6,12 @@ body
     padding: 0;
     
 }
+
+html
+{
+	scoll-behavior: smooth;
+}
+
 .all
 {
     width: 100%;
